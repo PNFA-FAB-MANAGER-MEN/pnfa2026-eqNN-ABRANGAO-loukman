@@ -1,11 +1,11 @@
-# Fiche projet — Équipe NN
+# Fiche projet — Équipe 14
 
-> Livrable L2 · Jalon J1 (samedi 29 août 2026) · validée par l'encadreur référent.
+> Livrable L2 · Jalon J1 (samedi 29 août 2026) · validée par l'encadreur BALOA Emmanuel & PINEWAI Aron.
 > Aucune fabrication n'est autorisée avant la validation de ce jalon.
 
 ## 1. Titre et accroche
+MINUTEUR GEANT POUR LES ACTIVITES PEDAGOGIQUES AVEC SIRENE
 
-Nom du dispositif, une phrase pour le présenter à un chef d'établissement.
 
 ## 2. Besoin et bénéficiaires
 
